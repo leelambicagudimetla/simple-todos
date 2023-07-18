@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.button {
+  color: #ff0b37;
+  font-size: 18px;
+  font-family: 'Roboto';
+  border-radius: 5px;
+  border-color: #ff0b37;
+  border-width: 1px;
+  cursor: pointer;
+  outline: none;
+}
+.delete-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.paragraph {
+  color: #000000;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
